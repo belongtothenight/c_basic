@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <limits.h>
-#include "config.h"
+#include "../config.h"
 
 #define PRINT_LIMIT_INT(x) #x": %d\n", x
 //printf("x: %d\n", x);
